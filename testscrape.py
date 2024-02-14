@@ -37,6 +37,9 @@ except requests.exceptions.RequestException as e:
 
 
 
+
+
+
 # PRINTING VARIABLES FOR HOW MANY SITES ARE WORKING
 print('count_of_working_sites:', count_of_working_sites)
 print('count_of_potentially_broken_sites:', count_of_potentially_broken_sites)
